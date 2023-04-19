@@ -1,0 +1,7 @@
+.active{
+    background: rgba(196,187,187,0.52);
+    border-right: 8px solid blue;
+    border-radius: 10px 0   9px 0;
+    border-left: 8px solid blue;
+    color: blue;
+}
